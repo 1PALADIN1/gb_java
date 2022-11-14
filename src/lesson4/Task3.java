@@ -1,7 +1,5 @@
 package lesson4;
 
-import java.util.Stack;
-
 /* Задание 3
 https://leetcode.com/problems/maximum-nesting-depth-of-the-parentheses/
  */
