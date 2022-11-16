@@ -3,6 +3,9 @@ package lesson5;
 import java.util.HashMap;
 import java.util.Map;
 
+/* Задание 2
+https://leetcode.com/problems/roman-to-integer/
+ */
 public class Task2 {
     public static void main(String[] args) {
         //Test cases
